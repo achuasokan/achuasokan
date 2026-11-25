@@ -1,32 +1,45 @@
+<h1 align="center">Hi, I'm Achu Asokan 👋</h1>
+
 <p align="center">
-  <img src="assets/header.svg" alt="Achu Asokan, full stack developer. From concept to creation." width="100%" />
+  <b>Software Engineer · Full Stack Developer</b><br/>
+  Web & Mobile Applications<br/>
+  <i>From concept to creation.</i>
 </p>
 
 <p align="center">
-  <a href="https://achuasokan.fun"><img src="https://img.shields.io/badge/Website-achuasokan.fun-5B8CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/achu-a-4xd2y/"><img src="https://img.shields.io/badge/LinkedIn-Achu_A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:achuasokan.me@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-FFB547?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
+  <a href="https://achuasokan.fun">Website</a> ·
+  <a href="https://www.linkedin.com/in/achu-a-4xd2y/">LinkedIn</a> ·
+  <a href="mailto:achuasokan.me@gmail.com">Email</a>
 </p>
 
-I build web and mobile products from the first sketch to the final deploy: interfaces in React and Next.js, apps in React Native, and the Node.js backends and real-time systems behind them.
+---
 
-## Featured work
+## 🛠 Tech Stack
 
-<table>
-  <tr>
-    <td width="50%"><a href="https://github.com/achuasokan/tvtrac-frontend"><img src="assets/card-tvtrac.svg" alt="tvtrac." width="100%" /></a></td>
-    <td width="50%"><img src="assets/card-spark.svg" alt="Spark" width="100%" /></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="assets/card-casa.svg" alt="Casa Ananda" width="100%" /></td>
-    <td width="50%"><a href="https://github.com/achuasokan/comiX"><img src="assets/card-comix.svg" alt="comiX" width="100%" /></a></td>
-  </tr>
-</table>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-## Tools I work with
+---
 
-<img src="assets/stack.svg" alt="Tech stack: React, Next.js, Vue.js, TypeScript, React Native, Expo, Node.js, Express, NestJS, PostgreSQL, MongoDB, Docker, Socket.io" width="100%" />
+## 🚀 Featured Work
 
-## Get in touch
+- **tvtrac.** — Media discovery & tracking platform → [Code](https://github.com/achuasokan/tvtrac-frontend)
+- **Spark** — Real-time dating platform
+- **Casa Ananda** — Luxury resort website
+- **Comix** — Comic book e-commerce platform → [Code](https://github.com/achuasokan/comiX)
 
-<a href="mailto:achuasokan.me@gmail.com"><img src="assets/contact.svg" alt="Have something to build? Let's talk about it." width="100%" /></a>
+---
+
+## 📫 Contact
+
+📍 Kerala, India · 🌐 [achuasokan.fun](https://achuasokan.fun) · ✉️ achuasokan.me@gmail.com
