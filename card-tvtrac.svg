@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 240" width="440" height="240" role="img" aria-label="tvtrac.: Find shows and movies, then keep track of what you have watched.">
+<style>
+
+.fill{animation:fill 6s ease-in-out infinite;transform-box:fill-box;transform-origin:0 50%}
+@keyframes fill{0%{transform:scaleX(.15)}70%,100%{transform:scaleX(1)}}
+.pulse{animation:pulse 2.4s ease-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pulse{0%{transform:scale(.6);opacity:.9}100%{transform:scale(2.4);opacity:0}}
+.rise{animation:rise 7s ease-in-out infinite alternate}
+@keyframes rise{from{transform:translateY(22px)}to{transform:translateY(0)}}
+.flash{animation:flash 4s infinite}
+@keyframes flash{0%,70%,100%{opacity:.15}78%{opacity:.9}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+</style>
+<defs><clipPath id="c"><rect width="440" height="240" rx="20"/></clipPath>
+<radialGradient id="glow"><stop offset="0" stop-color="#5B8CFF" stop-opacity=".35"/><stop offset="1" stop-color="#5B8CFF" stop-opacity="0"/></radialGradient></defs>
+<g clip-path="url(#c)"><rect width="440" height="240" fill="#131B33"/>
+<circle cx="360" cy="40" r="140" fill="url(#glow)"/><rect x="272" y="36" width="44" height="64" rx="6" fill="#0B1020" stroke="#26325A"/><rect x="278" y="42" width="32" height="40" rx="3" fill="#5B8CFF" opacity=".55"/><rect x="278" y="88" width="32" height="5" rx="2.5" fill="#26325A"/><rect class="fill" style="animation-delay:0.0s" x="278" y="88" width="32" height="5" rx="2.5" fill="#5B8CFF"/><rect x="326" y="36" width="44" height="64" rx="6" fill="#0B1020" stroke="#26325A"/><rect x="332" y="42" width="32" height="40" rx="3" fill="#FFB547" opacity=".55"/><rect x="332" y="88" width="32" height="5" rx="2.5" fill="#26325A"/><rect class="fill" style="animation-delay:0.7s" x="332" y="88" width="32" height="5" rx="2.5" fill="#FFB547"/><rect x="380" y="36" width="44" height="64" rx="6" fill="#0B1020" stroke="#26325A"/><rect x="386" y="42" width="32" height="40" rx="3" fill="#FF6B8A" opacity=".55"/><rect x="386" y="88" width="32" height="5" rx="2.5" fill="#26325A"/><rect class="fill" style="animation-delay:1.4s" x="386" y="88" width="32" height="5" rx="2.5" fill="#FF6B8A"/></g>
+<rect x=".5" y=".5" width="439" height="239" rx="20" fill="none" stroke="#26325A"/>
+<text x="28" y="48" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#5B8CFF" font-weight="600">Media discovery and tracking</text>
+<text x="28" y="96" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="38" font-weight="800" fill="#E8ECFF" letter-spacing="-1">tvtrac.</text>
+<text x="28" y="128" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="15" fill="#8A94B8">Find shows and movies, then keep</text>
+<text x="28" y="150" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="15" fill="#8A94B8">track of what you have watched.</text>
+<rect x="28" y="190" width="114" height="28" rx="14" fill="#0B1020" stroke="#26325A"/><circle cx="42" cy="204" r="3.5" fill="#5B8CFF"/><text x="53" y="209" font-size="13" fill="#E8ECFF" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">TypeScript</text><rect x="150" y="190" width="146" height="28" rx="14" fill="#0B1020" stroke="#26325A"/><circle cx="164" cy="204" r="3.5" fill="#5B8CFF"/><text x="175" y="209" font-size="13" fill="#E8ECFF" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">TanStack Query</text>
+</svg>
