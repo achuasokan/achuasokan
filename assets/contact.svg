@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 190" width="900" height="190" role="img" aria-label="Contact Achu Asokan">
+<style>@keyframes b{0%,49%{opacity:1}50%,100%{opacity:0}}.cur{animation:b 1.1s infinite}@media (prefers-reduced-motion:reduce){.cur{animation:none}}</style>
+<defs><clipPath id="c"><rect width="900" height="190" rx="24"/></clipPath>
+<radialGradient id="g"><stop offset="0" stop-color="#FFB547" stop-opacity=".28"/><stop offset="1" stop-color="#FFB547" stop-opacity="0"/></radialGradient></defs>
+<g clip-path="url(#c)"><rect width="900" height="190" fill="#0B1020"/><circle cx="800" cy="190" r="220" fill="url(#g)"/></g>
+<rect x=".5" y=".5" width="899" height="189" rx="24" fill="none" stroke="#26325A"/>
+<text x="48" y="74" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="38" font-weight="800" fill="#E8ECFF" letter-spacing="-1">Have something to build?</text>
+<rect class="cur" x="496" y="44" width="4" height="38" fill="#FFB547"/>
+<text x="48" y="112" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="22" fill="#FFB547">Let's talk about it.</text>
+<text x="48" y="154" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="16" fill="#8A94B8">achuasokan.me@gmail.com</text>
+<text x="300" y="154" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="16" fill="#8A94B8">achuasokan.fun</text>
+<text x="470" y="154" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="16" fill="#8A94B8">linkedin.com/in/achu-a-4xd2y</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 240" width="440" height="240" role="img" aria-label="Spark: A dating app where matches and messages arrive as they happen.">
+<style>
+
+.fill{animation:fill 6s ease-in-out infinite;transform-box:fill-box;transform-origin:0 50%}
+@keyframes fill{0%{transform:scaleX(.15)}70%,100%{transform:scaleX(1)}}
+.pulse{animation:pulse 2.4s ease-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes pulse{0%{transform:scale(.6);opacity:.9}100%{transform:scale(2.4);opacity:0}}
+.rise{animation:rise 7s ease-in-out infinite alternate}
+@keyframes rise{from{transform:translateY(22px)}to{transform:translateY(0)}}
+.flash{animation:flash 4s infinite}
+@keyframes flash{0%,70%,100%{opacity:.15}78%{opacity:.9}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+</style>
+<defs><clipPath id="c"><rect width="440" height="240" rx="20"/></clipPath>
+<radialGradient id="glow"><stop offset="0" stop-color="#FF6B8A" stop-opacity=".35"/><stop offset="1" stop-color="#FF6B8A" stop-opacity="0"/></radialGradient></defs>
+<g clip-path="url(#c)"><rect width="440" height="240" fill="#131B33"/>
+<circle cx="360" cy="40" r="140" fill="url(#glow)"/><circle cx="298" cy="84" r="26" fill="#0B1020" stroke="#26325A"/><circle cx="298" cy="76" r="9" fill="#FF6B8A" opacity=".8"/><path d="M280 98a18 14 0 0 1 36 0z" fill="#FF6B8A" opacity=".8"/>
+<circle cx="378" cy="84" r="26" fill="#0B1020" stroke="#26325A"/><circle cx="378" cy="76" r="9" fill="#5B8CFF" opacity=".8"/><path d="M360 98a18 14 0 0 1 36 0z" fill="#5B8CFF" opacity=".8"/>
+<circle class="pulse" cx="338" cy="84" r="7" fill="#FF6B8A"/><circle cx="338" cy="84" r="5" fill="#FF6B8A"/>
+<line x1="326" y1="84" x2="332" y2="84" stroke="#FF6B8A"/><line x1="344" y1="84" x2="350" y2="84" stroke="#FF6B8A"/></g>
+<rect x=".5" y=".5" width="439" height="239" rx="20" fill="none" stroke="#26325A"/>
+<text x="28" y="48" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#FF6B8A" font-weight="600">Real-time dating platform</text>
+<text x="28" y="96" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="38" font-weight="800" fill="#E8ECFF" letter-spacing="-1">Spark</text>
+<text x="28" y="128" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="15" fill="#8A94B8">A dating app where matches and</text>
+<text x="28" y="150" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="15" fill="#8A94B8">messages arrive as they happen.</text>
+<rect x="28" y="190" width="130" height="28" rx="14" fill="#0B1020" stroke="#26325A"/><circle cx="42" cy="204" r="3.5" fill="#FF6B8A"/><text x="53" y="209" font-size="13" fill="#E8ECFF" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">React Native</text><rect x="166" y="190" width="106" height="28" rx="14" fill="#0B1020" stroke="#26325A"/><circle cx="180" cy="204" r="3.5" fill="#FF6B8A"/><text x="191" y="209" font-size="13" fill="#E8ECFF" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">Socket.io</text>
+</svg>
