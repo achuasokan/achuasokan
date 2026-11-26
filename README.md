@@ -31,15 +31,6 @@
 
 ---
 
-## 🚀 Featured Work
 
-- **tvtrac.** — Media discovery & tracking platform → [Code](https://github.com/achuasokan/tvtrac-frontend)
-- **Spark** — Real-time dating platform
-- **Casa Ananda** — Luxury resort website
-- **Comix** — Comic book e-commerce platform → [Code](https://github.com/achuasokan/comiX)
 
----
 
-## 📫 Contact
-
-📍 Kerala, India · 🌐 [achuasokan.fun](https://achuasokan.fun) · ✉️ achuasokan.me@gmail.com
