@@ -1,66 +1,60 @@
-<h1 align="center">ACHU ASOKAN</h1>
+<h1 align="center">Achu Asokan</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-E50914?style=for-the-badge" />
+  Software Engineer &nbsp;|&nbsp; Full Stack Developer<br/>
+  Web and Mobile Applications
 </p>
 
-<p align="center">
-  Full Stack Developer &nbsp;|&nbsp; Web &amp; Mobile Applications
-</p>
-
-<p align="center">
-  <i>From concept to creation.</i>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NOW_STREAMING-Full_Stack_Development-141414?style=for-the-badge&labelColor=E50914" />
-</p>
+<p align="center"><code>about.ts</code> &nbsp;·&nbsp; <code>stack.ts</code> &nbsp;·&nbsp; <code>interests.ts</code> &nbsp;·&nbsp; <code>terminal</code></p>
 
 ---
 
-### Top Picks: Frontend
+### about.ts
 
-<img src="https://img.shields.io/badge/React-141414?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Next.js-141414?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vue.js-141414?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TypeScript-141414?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TanStack_Query-141414?style=for-the-badge" />
+```ts
+const developer = {
+  name: "Achu Asokan",
+  role: "Software Engineer",
+  focus: "Full Stack Developer",
+  builds: ["Web Applications", "Mobile Applications"],
+  tagline: "From concept to creation.",
+};
 
-### Trending Now: Mobile
+export default developer;
+```
 
-<img src="https://img.shields.io/badge/React_Native-141414?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Expo-141414?style=for-the-badge" />
+### stack.ts
 
-### Popular on the Server: Backend
+```ts
+export const stack = {
+  frontend: ["React", "Next.js", "Vue.js", "TypeScript", "TanStack Query"],
+  mobile:   ["React Native", "Expo"],
+  backend:  ["Node.js", "Express", "NestJS"],
+  database: ["PostgreSQL", "MongoDB"],
+  systems:  ["Docker", "Socket.io"],
+} as const;
+```
 
-<img src="https://img.shields.io/badge/Node.js-141414?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Express-141414?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NestJS-141414?style=for-the-badge" />
+### interests.ts
 
-### Because You Like Data: Databases
+```ts
+export const interests = [
+  "Full Stack Web Development",
+  "Mobile Application Development",
+  "UI/UX Design",
+  "Real-time Applications",
+  "Building useful digital products",
+];
+```
 
-<img src="https://img.shields.io/badge/PostgreSQL-141414?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MongoDB-141414?style=for-the-badge" />
+### terminal
 
-### Behind the Scenes: Systems
+```bash
+$ whoami
+achuasokan
 
-<img src="https://img.shields.io/badge/Docker-141414?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Socket.io-141414?style=for-the-badge" />
-
----
-
-### Genres I Work In
-
-<img src="https://img.shields.io/badge/Full_Stack_Web_Development-E50914?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mobile_Application_Development-E50914?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UI%2FUX_Design-E50914?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Real--time_Applications-E50914?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Building_Useful_Digital_Products-E50914?style=for-the-badge" />
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ACHU_ASOKAN-FROM_CONCEPT_TO_CREATION-E50914?style=for-the-badge&labelColor=141414" />
-</p>
+$ npm run build --product=useful
+> compiling ideas...
+> shipping...
+> done. From concept to creation.
+```
