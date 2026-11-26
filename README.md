@@ -1,36 +1,66 @@
-<h1 align="center">Achu Asokan</h1>
+<h1 align="center">ACHU ASOKAN</h1>
 
 <p align="center">
-  <b>Software Engineer · Full Stack Developer</b><br/>
-  Web & Mobile Applications<br/>
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEER-E50914?style=for-the-badge" />
+</p>
+
+<p align="center">
+  Full Stack Developer &nbsp;|&nbsp; Web &amp; Mobile Applications
+</p>
+
+<p align="center">
   <i>From concept to creation.</i>
 </p>
 
+<br/>
+
 <p align="center">
-  <a href="https://achuasokan.fun">Website</a> ·
-  <a href="https://www.linkedin.com/in/achu-a-4xd2y/">LinkedIn</a> ·
-  <a href="mailto:achuasokan.me@gmail.com">Email</a>
+  <img src="https://img.shields.io/badge/NOW_STREAMING-Full_Stack_Development-141414?style=for-the-badge&labelColor=E50914" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
+### Top Picks: Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+<img src="https://img.shields.io/badge/React-141414?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Next.js-141414?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vue.js-141414?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeScript-141414?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TanStack_Query-141414?style=for-the-badge" />
+
+### Trending Now: Mobile
+
+<img src="https://img.shields.io/badge/React_Native-141414?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Expo-141414?style=for-the-badge" />
+
+### Popular on the Server: Backend
+
+<img src="https://img.shields.io/badge/Node.js-141414?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Express-141414?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NestJS-141414?style=for-the-badge" />
+
+### Because You Like Data: Databases
+
+<img src="https://img.shields.io/badge/PostgreSQL-141414?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MongoDB-141414?style=for-the-badge" />
+
+### Behind the Scenes: Systems
+
+<img src="https://img.shields.io/badge/Docker-141414?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Socket.io-141414?style=for-the-badge" />
 
 ---
 
+### Genres I Work In
 
+<img src="https://img.shields.io/badge/Full_Stack_Web_Development-E50914?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mobile_Application_Development-E50914?style=for-the-badge" />
+<img src="https://img.shields.io/badge/UI%2FUX_Design-E50914?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Real--time_Applications-E50914?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Building_Useful_Digital_Products-E50914?style=for-the-badge" />
 
+<br/>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ACHU_ASOKAN-FROM_CONCEPT_TO_CREATION-E50914?style=for-the-badge&labelColor=141414" />
+</p>
