@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Achu Asokan 👋</h1>
+<h1 align="center">Achu Asokan</h1>
 
 <p align="center">
   <b>Software Engineer · Full Stack Developer</b><br/>
